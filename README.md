@@ -1,0 +1,2 @@
+# Clustering-RNA
+Clustering of RNA-sequence reads without a reference transcriptome, Stony Brook University 2015 This project was as a team, in which I developed a three-stage clustering for RNA reads. The first stage consisted of a Locality-Sensitive Hashing that mapped binary reads via randomized projections. After the initial clustering, the following consisted of hierarchical and K-means clustering, in a codon-abundance embedding with the Manhattan metric in a 64-dimensional space.
